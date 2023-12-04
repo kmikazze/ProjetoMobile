@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProjetoCoffee</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta clicando AQUI</string>
+    <string name="title_cadastro">Cadastre-se</string>
+</resources>
